@@ -75,17 +75,7 @@ Find store codes in the [Apple Store Numbers](https://github.com/worthbak/apple-
 
 ## Usage
 
-### Quick Start
-
-1. **Set environment variables:**
-   ```bash
-   export EMAIL_USER="your_email@gmail.com"
-   export EMAIL_PASSWORD="your_app_password"
-   export PRODUCT_ID="MFXG4LL/A"
-   export STORE_ID="R354"
-   ```
-
-2. **Run the monitor:**
+**Run the monitor:**
    ```bash
    python apple_monitor.py
    ```
